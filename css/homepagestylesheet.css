@@ -638,7 +638,19 @@ body {
 /*slick*/
 .carousel_section {
   position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
+
+.splide__pagination {
+  bottom: -1.5rem;
+}
+
+.splide__pagination__page {
+  background: red;
+}
+
 .red_border {
   height: 190px;
   width: 100%;
