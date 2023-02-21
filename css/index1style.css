@@ -6,16 +6,17 @@
   font-weight: 500;
   color: #ed1e79;
   font-family: "Montserrat", sans-serif;
-  margin-bottom: 16px;
+  /* margin-bottom: 16px; */
 }
 
-.build_your_container p {
+.build_your_container p, ul {
   font-size: 18px;
   color: #8a8a8a;
-  margin-bottom: 32px;
+  /* margin-bottom: 32px; */
   font-weight: 500;
   color: rgb(0, 0, 0);
   line-height: 1.4;
+  font-family: "Montserrat", sans-serif;
 }
 
 .provide_cover_cont {
