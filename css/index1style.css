@@ -9,7 +9,8 @@
   /* margin-bottom: 16px; */
 }
 
-.build_your_container p, ul {
+.build_your_container p,
+ul {
   font-size: 18px;
   color: #8a8a8a;
   /* margin-bottom: 32px; */
@@ -78,7 +79,9 @@
 }
 .list_provide_cover_cont {
   margin-bottom: 10px;
+  padding-right: 85px;
 }
+
 .list_provide_cover_cont ul {
   padding: 0px;
   /* margin-top: 10px; */
