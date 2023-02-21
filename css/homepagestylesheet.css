@@ -381,6 +381,10 @@ body {
     height: 0;
     background: transparent;
   }
+
+  .list_provide_cover_cont {
+    padding-right: 50px !important;
+  }
 }
 
 .company_animation {
